@@ -1,3 +1,7 @@
+Student in Coursera > Data Science Specialization > Data Scientist's Toolbox. This is part of a project assignment.
+
+Thank you!
+
 The location of this forked & cloned repo is wrong. It should have the parent directory ~/repo/clone or maybe just ~/repo.
 
 Will take care of this after project Submit!
